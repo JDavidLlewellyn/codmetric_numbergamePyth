@@ -1,0 +1,8 @@
+import random
+n=int(input("Enter a number"))
+g=random.randint()
+if n=g:
+   print("You guessed correctly")
+   break
+else:
+   print("Your guess was correctly")
